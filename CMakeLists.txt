@@ -37,3 +37,4 @@ add_executable(LeetCode20220717_4 contests/20220717/4.cpp)
 add_executable(LeetCode20220925_4 contests/20220925/4.cpp contests/20220925/4.cpp)
 
 add_executable(p856 "problems/856. 括号的分数.cpp")
+add_executable(p801 "problems/801. 使序列递增的最小交换次数.cpp")
